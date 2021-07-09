@@ -1,7 +1,7 @@
 # Hello, I'm Kenny ! 👋
 
 Currently following the journey to become the developper I want to be.
-- 🔭 Currently learning and working on multiple frontend and backend with Wordpress
+- 🔭 Currently learning and working on multiple frontend and backend with MySQL
 - 📚 Learning everything and improving what I've learned because the path is long but very interesting !
 - 🏭 Looking for an internship
 <br>
@@ -29,6 +29,11 @@ Currently following the journey to become the developper I want to be.
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<br>
+<br>
+
+### Database
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
 <br>
 
