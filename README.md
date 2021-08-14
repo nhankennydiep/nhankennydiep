@@ -38,7 +38,7 @@ Currently following the journey to become the developper I want to be.
 <br>
 
 ##### Framework
-<img align="left" alt="symfony" src="https://camo.githubusercontent.com/4768e1e19c824c9b909d6937719e7ae891b2ae0e3d9bcd25d5ada069c856f82c/68747470733a2f2f696d672e736869656c64732e69 "/>
+<img align="left" alt="symfony" src="https://connect.symfony.com/api/badges/ae98994d-3d98-4c8c-9a38-56b7fd755bc2 "/>
 
 ### Database
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
