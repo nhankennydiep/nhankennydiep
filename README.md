@@ -1,7 +1,7 @@
 # Hello, I'm Kenny ! 👋
 
 Currently following the journey to become the developper I want to be.
-- 🔭 Currently learning and working on multiple frontend and backend with MySQL & Php
+- 🔭 Currently learning and working on multiple frontend and backend with Symfony 
 - 📚 Learning everything and improving what I've learned because the path is long but very interesting !
 - 🏭 Looking for an internship
 <br>
