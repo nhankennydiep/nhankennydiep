@@ -37,9 +37,6 @@ Currently following the journey to become the developper I want to be.
 <br>
 <br>
 
-##### Framework
-<img align="left" alt="symfony" src="https://connect.symfony.com/api/badges/ae98994d-3d98-4c8c-9a38-56b7fd755bc2 "/>
-
 ### Database
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
